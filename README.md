@@ -101,7 +101,7 @@ The dataset (`Mobiles_Dataset.xlsx`) contains listings of mobile phones with the
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/mobiles-analysis.git
+git clone https://github.com/aniketmaurya28/mobiles-analysis.git
 cd mobiles-analysis
 
 # Install dependencies
@@ -151,7 +151,7 @@ jupyter notebook Mobiles_Analysis_Using_Python.ipynb
 ## 👤 Author
 
 **Aniket Maurya**  
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-aniketmaurya28-181717?logo=github)](https://github.com/your-username)
 
 ---
 
