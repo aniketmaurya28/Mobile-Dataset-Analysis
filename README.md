@@ -2,7 +2,7 @@
 
 > Exploratory data analysis of a mobile phones dataset — uncovering pricing patterns, brand dynamics, discount strategies, and consumer preferences through structured Python workflows.
 
----
+--- 
 
 ## 📂 Dataset Overview
 
