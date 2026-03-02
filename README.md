@@ -84,17 +84,6 @@ The dataset (`Mobiles_Dataset.xlsx`) contains listings of mobile phones with the
 
 ---
 
-## 📁 Project Structure
-
-```
-📦 Mobiles-Analysis
- ┣ 📓 Mobiles_Analysis_Using_Python.ipynb   ← Main analysis notebook
- ┣ 📊 Mobiles_Dataset.xlsx                  ← Raw input data
- ┣ 📄 mobiles_cleaned_final.csv             ← Cleaned output (CSV)
- ┣ 📊 mobiles_cleaned_final.xlsx            ← Cleaned output (Excel)
- ┗ 📄 README.md
-```
-
 ---
 
 ## ▶️ How to Run
