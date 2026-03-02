@@ -151,7 +151,7 @@ jupyter notebook Mobiles_Analysis_Using_Python.ipynb
 ## 👤 Author
 
 **Aniket Maurya**  
-[![GitHub](https://img.shields.io/badge/GitHub-aniketmaurya28-181717?logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-aniketmaurya28-181717?logo=github)](https://github.com/aniketmaurya28)
 
 ---
 
